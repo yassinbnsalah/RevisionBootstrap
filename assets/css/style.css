@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&family=Poppins:wght@600&family=Poppins:wght@400&family=Work+Sans&display=swap");
+@import url("https://db.onlinewebfonts.com/c/028b4cfdfab5d1049178e9b1eb42f49e?family=Poppins+SemiBold");
+.nav-item {
+  font-size: 22px;
+  margin-right: 50px;
+  font-family: "Poppins";
+  color: rgb(14, 48, 160);
+  line-height: 2;
+}
+
+/*# sourceMappingURL=style.css.map */

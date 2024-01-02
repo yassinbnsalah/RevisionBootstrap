@@ -1,14 +1,13 @@
 // Import partial files
-@import 'config/variables';
-@import 'base/base';
-@import 'layout/layout';
-@import 'components/header';
-@import 'components/home';
-@import 'components/buttons';
-@import 'components/about';
-@import 'components/services';
-@import 'components/app';
-@import 'components/contact';
-@import 'components/footer';
-@import 'components/scroll';
-@import 'components/mediaqueries';
+
+@import '_variables';
+
+
+.nav-item {
+    font-size: 22px;
+    margin-right: 50px  ;
+    font-family: $navbarFontFamily;
+    color: rgb(14, 48, 160);
+    line-height: 2;
+  }
+  
